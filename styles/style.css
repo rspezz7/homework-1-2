@@ -1,0 +1,46 @@
+html {
+    font-size: 16px;
+    font-family: "Noto Serif", sans-serif;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 40px;
+    text-align: center;
+    color:rgb(255, 255, 255)
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html {
+    background-color: #f8efa0;
+  }
+
+  body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #f77656;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(255, 255, 255);
+  }
+
+  h1 {
+    margin: 0;
+    padding: 40px 0;
+    color: #ffffff;
+    text-shadow: 2px 2px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
